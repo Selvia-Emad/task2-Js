@@ -1,0 +1,42 @@
+body{
+    
+    
+    background-color: #F7CFD8;
+    
+}
+.card{
+margin-top: 30vh;
+ text-align: center;
+ /* border: 1px solid bisque ; */
+ 
+background-color: #F1E7E7;
+ /* width: fit-content; */
+ /* box-shadow: 4px  black; */
+}
+button{
+    background-color: #E69DB8;
+    border: none;
+    padding: 10px;
+}
+button:hover{
+    background-color:#FFFECE    ;
+
+}
+/* .bac{
+    background-image: url("../bac.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+} */
+h1 {
+    font-size: 50px;
+    font-family: Impact;
+    color: #E69DB8;
+}
+h3{
+    font-size: 35px;
+    color: #ffaa9a;
+}
+p{
+    font-size: 25px;
+    color: #ec6194;
+}
